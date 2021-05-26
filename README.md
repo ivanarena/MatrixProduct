@@ -1,2 +1,2 @@
 # MatrixProduct
-Row-column matrix multiplication in C++ using both iteration and recursion.
+Row-column integer matrix multiplication in C++ using both iteration and recursion.
